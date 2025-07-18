@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+pandas
+numpy
+scikit-learn
+xgboost
+sqlalchemy
+pymysql
+python-multipart
+watchtower
